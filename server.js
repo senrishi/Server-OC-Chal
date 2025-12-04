@@ -224,5 +224,5 @@ app.get('/benchmark', async (req, res) => {
 });
 
 app.listen(PORT, () => {
-    console.log(`Server OC Chal running on http://localhost:${PORT}`);
+    console.log(`Chal on http://localhost:${PORT}`);
 });
